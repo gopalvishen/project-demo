@@ -1,3 +1,3 @@
 # project-demo
-This is my first git repository
-Author: Gopal Vishen
+This is my first git repository <br>
+Author: Gopal Vishen(Accenture)
